@@ -1,0 +1,18 @@
+{
+    "name": "c_list",
+    "version": "d870ad90c98ca13022840a6f68eb5ca7c357af6b",
+    "repo": "binRick/c_list",
+    "description": "C List",
+    "keywords": [
+        "c",
+        "list",
+        "string"
+    ],
+    "license": "MIT",
+    "makefile": "Makefile",
+    "install": "make install",
+    "src": ["src/list.h","README","tests/test1.c"],
+    "dependencies": {
+        "clibs/module": "0.1.1"
+    }
+}
