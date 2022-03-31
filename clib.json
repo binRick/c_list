@@ -1,8 +1,9 @@
 {
     "name": "c_list",
-    "version": "37de6f8cccaf50436c94987ad50df941b90b6123",
+    "version": "69fa80331bc17ea2e7dbff99266ea50a74065259",
     "repo": "binRick/c_list",
     "description": "C List",
+    "files": ['src/list.h'],
     "keywords": [
         "c",
         "list",
