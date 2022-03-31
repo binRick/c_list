@@ -11,7 +11,7 @@
     "license": "MIT",
     "makefile": "Makefile",
     "install": "make install",
-    "src": ["src/list.h","README","tests/test1.c"],
+    "src": ["src/list.h","README.md","tests/test1.c"],
     "dependencies": {
         "clibs/module": "0.1.1"
     }
